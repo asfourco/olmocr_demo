@@ -1,0 +1,10 @@
+[project]
+name = "ocr"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "olmocr>=0.1.58",
+    "openai>=1.66.3",
+]
